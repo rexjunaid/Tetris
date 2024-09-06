@@ -28,7 +28,7 @@ The following list contains used control keys:
 
 ## Authors
 
-* **Pavel Benáček** - *coding of the game*
+* **Rex Junaid** - *coding of the game*
 
 ## License
 
